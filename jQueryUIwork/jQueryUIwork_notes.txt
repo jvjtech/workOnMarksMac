@@ -1,0 +1,37 @@
+jQueryUIwork
+20150904 created this doc to describe this work
+working through jQueryUI demos in http://jqueryui.com/demos/
+Interactions
+* Draggable
+* Droppable
+* Resizable
+* Selectable
+* Sortable
+Widgets
+* Accordion
+* Autocomplete
+* Button
+* Datepicker
+* Dialog
+* Menu
+* Progressbar
+* Selectmenu
+* Slider
+* Spinner
+* Tabs
+* Tooltip
+Effects
+* Add Class
+* ColorAnimation
+* Easing
+* Effect
+* Hide
+* RemoveClass
+* Show
+* SwitchClass
+* Toggle
+* ToggleClass
+Utilities
+* Position
+* WidgetFactory
+
