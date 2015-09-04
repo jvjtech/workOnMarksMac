@@ -72,3 +72,10 @@ Changes not staged for commit:
 	modified:   mygitlog.txt
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 1139959] create dir jQueryUIwork and move empty htm files to dir
+ 7 files changed, 21 insertions(+), 1 deletion(-)
+ rename anotherdialog.htm => jQueryUIwork/anotherdialog.htm (100%)
+ rename dialogAmime.htm => jQueryUIwork/dialogAmime.htm (100%)
+ rename dialogBasicModal.htm => jQueryUIwork/dialogBasicModal.htm (100%)
+ rename dialogModalForm.htm => jQueryUIwork/dialogModalForm.htm (100%)
+ rename dialogModalMessage.htm => jQueryUIwork/dialogModalMessage.htm (100%)
