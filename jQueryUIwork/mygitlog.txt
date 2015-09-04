@@ -65,3 +65,25 @@ Changes not staged for commit:
 	deleted:    WidgetsDialogdialogModalMessage.htm
 	modified:   ../mygitlog.txt
 
+[master 377fe43] restructure directories to match jqueryui.com/demos
+ 9 files changed, 149 insertions(+)
+ rename jQueryUIwork/{dialogAmime.htm => Widgets/WidgetsDialog/dialogAnime.htm} (100%)
+ rename jQueryUIwork/{ => Widgets/WidgetsDialog}/dialogBasicModal.htm (100%)
+ rename jQueryUIwork/{anotherdialog.htm => Widgets/WidgetsDialog/dialogDefault.htm} (100%)
+ rename jQueryUIwork/{ => Widgets/WidgetsDialog}/dialogModalForm.htm (100%)
+ rename jQueryUIwork/{ => Widgets/WidgetsDialog}/dialogModalMessage.htm (100%)
+ create mode 100644 jQueryUIwork/jQueryUIwork_notes.txt
+ create mode 100644 jQueryUIwork/mygitlog.txt
+ create mode 100644 jQueryUIwork/mytemp.sh
+20150904
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   ../README.md
+	modified:   mygitlog.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
